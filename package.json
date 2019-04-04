@@ -1,0 +1,14 @@
+{
+  "name": "lin-choose",
+  "version": "1.0.0",
+  "description": "三联级滑动选择器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linchoose"
+  ],
+  "author": "lin",
+  "license": "ISC"
+}
