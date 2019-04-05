@@ -119,7 +119,7 @@ lin-Choonse描述
   ]
 ```
 
-![Image text](https://raw.githubusercontent.com/aXin-0810/linChoose/master/img/choose.png)
+![Image text](https://raw.githubusercontent.com/aXin-0810/linChoose/master/img/choose.jpg)
 
 
 更新日志
