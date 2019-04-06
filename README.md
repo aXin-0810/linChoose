@@ -117,6 +117,13 @@ lin-Choonse描述
         ]
     },
   ]
+
+  //此外插件还提供了可直接使用的数据
+  import { LAreaData } from 'lin-choose/data/chooseData.js'
+  // 地区区域选择数据  keys : {id:id,name:name}
+  LAreaData
+
+
 ```
 
 ![Image text](https://raw.githubusercontent.com/aXin-0810/linChoose/master/img/choose.jpg)
