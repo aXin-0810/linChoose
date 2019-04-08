@@ -1,4 +1,4 @@
-lin-Choonse
+lin-Choose
 ===
 
 lin-Choonse描述
@@ -7,7 +7,7 @@ lin-Choonse描述
 
 ```javascript
 
-  npm install lin-Choonse
+  npm install lin-Choose
 
   import choose from 'lin-choose'
   import 'lin-choose/css/linChoose.css'
